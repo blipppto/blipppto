@@ -10,7 +10,7 @@ I'm an aspiring Cloud Engineer, currently enrolled in altschool and GADS(Google 
 - 🌱 I’m currently learning JavaScript, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing nwizuchizi@gmail.com
+- 📫 You can [view my resume](https://chizi.netlify.app/) and contact me by emailing nwizuchizi@gmail.com
 
 ---
 
