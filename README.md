@@ -6,8 +6,8 @@ I'm a Devops/Cloud Engineer, passionate about solving problems through the use o
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-<!-- - 🌱 I’m currently learning JavaScript, and Python.
+- 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+<!-- - 🌱 .
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://chizi.netlify.app/) and contact me by emailing nwizuchizi@gmail.com -->
